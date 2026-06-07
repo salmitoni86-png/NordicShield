@@ -1,0 +1,2 @@
+# NordicShield
+upcoming war game../.
